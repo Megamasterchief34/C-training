@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tolya\\Documents\\C#\\lesson01\\lesson01.csproj": {}
+    "C:\\Users\\tolya\\Documents\\C#\\Lesson01\\lesson01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tolya\\Documents\\C#\\lesson01\\lesson01.csproj": {
+    "C:\\Users\\tolya\\Documents\\C#\\Lesson01\\lesson01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tolya\\Documents\\C#\\lesson01\\lesson01.csproj",
+        "projectUniqueName": "C:\\Users\\tolya\\Documents\\C#\\Lesson01\\lesson01.csproj",
         "projectName": "lesson01",
-        "projectPath": "C:\\Users\\tolya\\Documents\\C#\\lesson01\\lesson01.csproj",
+        "projectPath": "C:\\Users\\tolya\\Documents\\C#\\Lesson01\\lesson01.csproj",
         "packagesPath": "C:\\Users\\tolya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tolya\\Documents\\C#\\lesson01\\obj\\",
+        "outputPath": "C:\\Users\\tolya\\Documents\\C#\\Lesson01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tolya\\AppData\\Roaming\\NuGet\\NuGet.Config"
